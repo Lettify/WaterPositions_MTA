@@ -1,0 +1,5 @@
+<meta>
+    <info author="KronoS Lettify" name="Water Positions Generator" description="Gerar posições para a função 'createWater'" />
+    <script src="s.lua" />
+    <script src="c.lua" type="client" cache="false" />
+</meta>
