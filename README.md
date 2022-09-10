@@ -7,6 +7,7 @@ Logo abaixo está algumas dicas úteis de como usar este script. Aqui vai um peq
 
 ## Permissões
 - Para poder utilizar o comando `/watergen`, é necessário ter a permissão da ACL **command.watergen**.
+- Este comando tem sub-comandos que também só conseguem ser usados se tiver a permissão ou a depender da situação.
 
 ## Comandos
 
