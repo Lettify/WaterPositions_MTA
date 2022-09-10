@@ -10,7 +10,7 @@ Logo abaixo está algumas dicas úteis de como usar este script. Aqui vai um peq
 - Este comando tem sub-comandos que também só conseguem ser usados se tiver a permissão ou a depender da situação.
 
 ### Como ter a permissão para executar o comando?
-O passo a passo a seguir mostra como você pode ter ou dar a permissão **command.watergen**.
+O passo a passo a seguir mostra como você pode ter ou dar a permissão `command.watergen`.
 
 ## Comandos
 
