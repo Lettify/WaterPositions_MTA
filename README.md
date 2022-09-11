@@ -1,3 +1,4 @@
+![Imagem demonstração](https://i.imgur.com/Cvy6Stx.png)
 # Como usar?
 Logo abaixo está algumas dicas úteis de como usar este script. Aqui vai um pequeno sumário:
 - [Permissões](https://github.com/Lettify/WaterPositions_MTA/blob/master/README.md#permiss%C3%B5es)
