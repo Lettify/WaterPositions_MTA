@@ -18,6 +18,8 @@ O passo a passo a seguir mostra como você pode ter ou dar a permissão `command
 ![Admin ACL](https://i.imgur.com/ShGeUod.png)
 3. Ao selecionar a ACL que vai dar a permissão, clique em `Add Right` à direita para poder adicionar a permissão nela.
 ![Add Right Click](https://i.imgur.com/ndM414e.png)
+4. Quando clicar no botão do passo anterior, vai aparecer esta janela com um campo para você especificar a permissão que quer adicionar, então só digitar `command.watergen` e depois só clicar em `Ok`.
+![Add permission](https://i.imgur.com/5HCSYdA.png)
 
 ## Comandos
 
