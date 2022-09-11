@@ -16,6 +16,8 @@ O passo a passo a seguir mostra como você pode ter ou dar a permissão `command
 ![Manage ACL Click](https://i.imgur.com/P7HwY9P.png)
 2. Na lista à esquerda, na seção **ACL** procure pela ACL que quer dar a permissão ou então crie uma. Então clique duas vezes na ACL que quer adicionar a permissão para expandir as permissões nela, no exemplo usei a ACL **Admin**.
 ![Admin ACL](https://i.imgur.com/ShGeUod.png)
+3. Ao selecionar a ACL que vai dar a permissão, clique em `Add Right` à direita para poder adicionar a permissão nela.
+![Add Right Click](https://i.imgur.com/ndM414e.png)
 
 ## Comandos
 
