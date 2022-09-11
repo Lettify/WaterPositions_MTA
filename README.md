@@ -22,6 +22,9 @@ O passo a passo a seguir mostra como você pode ter ou dar a permissão `command
 ![Add permission](https://i.imgur.com/5HCSYdA.png)
 
 ## Comandos
+- `/watergen` - O principal comando e o comando para iniciar o sistema. Ao executar, aparece em sua tela um indicador mostrando que o script está detectando seus comandos, então só seguir conforme a mensagem chega no seu chat.
+- `/watergen cancelar` - Cancela todo o processo de geração das posições.
+- `/watergen altura <valor>` - Modifica a altura da água quando ela estiver sido criada pela pré-visualização (que é quando você cria todos os marcadores). O valor de altura é relativo à altura atual (em tempo real) da água no momento da execução. Exemplo: `/watergen altura -1` vai diminuir a altura em *1 unidade*, `/watergen altura 0.2` vai aumentar a altura da água em *0.2 unidades*.
 
 ## Passos para uso
 
