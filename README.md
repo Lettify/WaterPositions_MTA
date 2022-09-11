@@ -12,6 +12,8 @@ Logo abaixo está algumas dicas úteis de como usar este script. Aqui vai um peq
 
 ### Como ter a permissão para executar o comando?
 O passo a passo a seguir mostra como você pode ter ou dar a permissão `command.watergen`.
+1. Abra o painel **admin**, na aba **Resources** clique em `Manage ACL`
+![Manage ACL Click](https://i.imgur.com/P7HwY9P.png)
 
 ## Comandos
 
